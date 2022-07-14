@@ -3,3 +3,5 @@ streamlit
 pickleshare==0.7.5
 numpy==1.22.2
 scikit-learn==1.0.2
+matplotlib==3.5.1
+matplotlib-inline==0.1.3
